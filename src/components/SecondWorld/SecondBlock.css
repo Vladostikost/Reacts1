@@ -1,0 +1,80 @@
+.secondBlock{
+height: 670px;
+background: #FCF8F3;
+padding: 40px 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.inner {
+    display: flex;
+    justify-content: space-between;
+}
+.left {
+    padding-top: 150px;
+    line-height: 30px;
+}
+h1 {
+    width: 378px;
+    font-family: 'Gilroy';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    color: #3A3A3A;
+    
+  }
+  .baton {
+    width: 176px;
+    height: 48px;
+    background-color: #E89F71;
+    margin-top: 50px;
+    justify-content: center;
+    border: none;
+    color: white    ;
+  }
+
+  .Foto{
+   padding-right: 32px;
+   
+  }
+  .Foto2{
+    margin-bottom: 96px;
+  }
+/* .Foto2 {
+    transform: translateX(410px);
+    padding: 24px;
+    margin-top: -88px;
+  }
+  
+  
+  
+  .h2 {
+    width: 368px;
+    height: 48px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #616161;
+    transform: translateY(234px);
+    margin-left: 235px;
+  
+  }
+  
+  
+  .texts{
+    width: 96px;
+    height: 24px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+    justify-content: center;
+    display: flex;
+    margin-left: 35px;
+  }
+  
+   */
